@@ -14,6 +14,9 @@ Salmon
 > Quantification by Salmon
 >   pseudo-alignment based quantification
 
-- STAR, HISAT2 for ASV studies
+- STAR for ASV studies
+> QC, trim - Trim Galore
+>
+> Quantification by STAR
 
 # RNA-seq analysis Pipeline
